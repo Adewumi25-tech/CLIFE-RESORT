@@ -30,7 +30,7 @@ The performing the analysis, the dataset was processed to handle missing values,
 ## ANALYSIS
 ![OCTAVE 1J](https://user-images.githubusercontent.com/72547309/235508116-8fc547d3-a8d0-45e6-9c4f-d4fa9b3f3a1f.jpg)
 
-Lagos State made the lagrgest revenue followed by Calat State.
+Lagos State made the lagrgest revenue followed by Calabar State.
 
 ![OCTAVE 1B](https://user-images.githubusercontent.com/72547309/235421021-cd765660-6b91-495f-8e7d-0f003cc693ef.jpg)
 
